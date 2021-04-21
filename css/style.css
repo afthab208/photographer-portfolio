@@ -1,0 +1,74 @@
+* {
+  font-family: "Poppins";
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/c6/22/46/c62246425d2c45d07ff2ad24ecd620cc.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.favicon {
+  width: 70px;
+  cursor: pointer;
+  border-radius: 35px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  width: 99%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: #fff;
+}
+
+.content ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer {
+  width: 99%;
+  position: absolute;
+  top: 95%;
+  transform: translateY(-25%);
+  text-align: center;
+  color: #fff;
+}
+
+.footer i {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+  position: relative;
+}
+
+@media only screen { } 
+  
+@media only screen and (max-width: 40em) { } 
+  
+@media only screen and (min-width: 40.063em) { } 
+  
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { } 
+  
+@media only screen and (min-width: 64.063em) { } 
+  
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { } 
+  
+@media only screen and (min-width: 90.063em) { } 
+  
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { } 
+  
+@media only screen and (min-width: 120.063em) { } 
